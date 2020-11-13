@@ -1,0 +1,104 @@
+html, body{
+margin: 0px;
+padding: 0px;
+}
+
+#header{
+line-height:40px;
+font-family: Courier;
+height:40px;
+background-color: #008100;
+text-align: center;
+font-size: 110%;
+color: white;
+}
+
+#content{
+font-family: Helvetica;
+padding: 20px;
+box-sizing: border-box;
+height: 630px;
+width: 550px;
+margin-left: auto;
+margin-right: auto;
+background-color: #0000ff;
+color: white;
+}
+
+#footer{
+line-height:40px;
+height: 40px;
+background-color: #008100;
+text-align: center;
+font-size: 110%;
+color: white;
+}
+
+h1{
+margin:0;
+padding:0;
+}
+
+.text{
+margin-top: 15px;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    content: none;
+    float: left;
+    border: 5px white solid;
+    margin: 20px 21px 20px 5px;
+    border-radius: 15px 0px 25px 0px;
+}
+
+.img{
+float:left;
+}
+
+A {
+    color: red; 
+   }
+a:hover {color: yellow; text-decoration:underline}
+
+.aa{
+text-align: center;
+margin-top: 7px;
+}
+
+h2{
+word-spacing: 12px;
+margin:0;
+padding:10px;
+}
+
+ul{ margin: 5px;
+}
+
+li {margin-bottom: 5px;}
+td{
+width: 40px;
+height:35px;
+border: solid 1px silver;
+text-align:center;
+}
+
+p{
+letter-spacing: 5px;
+}
+
+.ende{ 
+margin: 8px;
+}
+
+.paddings{
+padding-top: 15px;
+}
+
+aside {
+padding: 15px;
+float: right
+}
+
+
